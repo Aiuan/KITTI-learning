@@ -1,6 +1,6 @@
 ## label introduction
 
-![image-20210519152312491](C:\Users\AIFUYUAN\AppData\Roaming\Typora\typora-user-images\image-20210519152312491.png)
+![image-20210519152312491](E:\matlab_workspace\KITTI\images\image-20210519152312491.png)
 
 ### coordinate introduction
 
